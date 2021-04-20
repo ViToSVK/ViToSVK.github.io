@@ -84,5 +84,5 @@ My PhD topic is verification of concurrent programs.
 In summers 2018 and 2019 I interned at Google Research Mountain View,
 working on machine learning in higher-order theorem proving.
 
-This summer (2020) I will intern at Google Research Zürich,
+In summer 2020 I interned at Google Research Zürich,
 in the area of on-device machine learning.
