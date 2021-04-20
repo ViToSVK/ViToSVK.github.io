@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veronika Loitzenbauer | Viktor Toman</title>
+    <link>https://vitosvk.github.io/author/veronika-loitzenbauer/</link>
+      <atom:link href="https://vitosvk.github.io/author/veronika-loitzenbauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veronika Loitzenbauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last update: April 2021</copyright><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vitosvk.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_2.png</url>
+      <title>Veronika Loitzenbauer</title>
+      <link>https://vitosvk.github.io/author/veronika-loitzenbauer/</link>
+    </image>
+    
+    <item>
+      <title>Symbolic Algorithms for Graphs and Markov Decision Processes with Fairness Objectives</title>
+      <link>https://vitosvk.github.io/publication/pubs/chatterjee-hlot-18/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://vitosvk.github.io/publication/pubs/chatterjee-hlot-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
