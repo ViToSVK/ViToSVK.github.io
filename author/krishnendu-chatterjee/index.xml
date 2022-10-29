@@ -5,12 +5,28 @@
     <link>https://vitosvk.github.io/author/krishnendu-chatterjee/</link>
       <atom:link href="https://vitosvk.github.io/author/krishnendu-chatterjee/index.xml" rel="self" type="application/rss+xml" />
     <description>Krishnendu Chatterjee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last update: October 2022</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last update: October 2022</copyright><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vitosvk.github.io/images/icon_hu05798da5833095988f190093553a38f3_1610_512x512_fill_lanczos_center_3.png</url>
       <title>Krishnendu Chatterjee</title>
       <link>https://vitosvk.github.io/author/krishnendu-chatterjee/</link>
     </image>
+    
+    <item>
+      <title>The reads-from equivalence for the TSO and PSO memory models</title>
+      <link>https://vitosvk.github.io/publication/pubs/bui-cgpt-21/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://vitosvk.github.io/publication/pubs/bui-cgpt-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stateless Model Checking Under a Reads-Value-From Equivalence</title>
+      <link>https://vitosvk.github.io/publication/pubs/agarwal-cppt-21/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vitosvk.github.io/publication/pubs/agarwal-cppt-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Value-centric Dynamic Partial Order Reduction</title>
